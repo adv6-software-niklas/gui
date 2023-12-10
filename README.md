@@ -29,14 +29,6 @@
 
 📺 [YouTube Video](https://youtu.be/w2h54xz6Ndw) for this repository.
 
----
-
-### 🎓 Academic Honesty
-
-**DO NOT COPY FOR AN ASSIGNMENT** - Avoid plagiarism and adhere to the spirit of this [Academic Honesty Policy](https://www.freecodecamp.org/news/academic-honesty-policy/).
-
----
-
 ### ⚙ Free Web Dev Tools
 - 🔗 [Google Chrome Web Browser](https://google.com/chrome/)
 - 🔗 [Visual Studio Code (aka VS Code)](https://code.visualstudio.com/)
