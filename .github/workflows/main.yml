@@ -10,7 +10,6 @@ jobs:
     - name: Docker Login
       uses: docker/login-action@v3.0.0
       with:
-        registry: mrneedhelp/adv6-gui
         username: mrneedhelp
         password: Snoogylove1995@
         logout: true
