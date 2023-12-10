@@ -11,5 +11,5 @@ jobs:
       uses: docker/login-action@v3.0.0
       with:
         username: mrneedhelp
-        password: Snoogylove1995@
+        password: Snoogylove1995!
         logout: true
