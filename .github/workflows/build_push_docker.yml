@@ -13,7 +13,7 @@ jobs:
         username: mrneedhelp
         password: Snoogylove1995!
   BuildAndPush:
-    runs-on: ubuntu-latest
+    runs-on: DESKTOP-0VH0HIK-gui
     steps:        
       - name: Setup docker Buildx
         uses: docker/setup-buildx-action@v3        
